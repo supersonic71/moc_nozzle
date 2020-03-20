@@ -1,3 +1,4 @@
+% Ephraim Raj, K.R.S Nandhan
 % A method of characteristics implementaion to find
 % the proper contour for a shock free expansion of
 % minimum length nozzle - rocket type as opposed to wind tunnel type
